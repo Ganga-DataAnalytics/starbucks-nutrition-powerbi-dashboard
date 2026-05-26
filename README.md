@@ -108,7 +108,7 @@ Additional restructuring was completed to support better filtering and analysis.
 
 
 
-![Dashboard Overview](images/overview.png)
+![Dashboard Overview](images/Overview.png)
 
 
 
