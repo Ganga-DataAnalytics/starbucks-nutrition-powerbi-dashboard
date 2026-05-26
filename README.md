@@ -160,7 +160,7 @@ This scatter plot explores the relationship between saturated fat and cholestero
 
 
 
-!\[Saturated Fat and Cholesterol by Beverage Category](images/saturated-fat-and-cholesterol-by-beverage-category.png)
+images/saturated-fat-and-cholesterol-by-beverage -category.png
 
 
 
