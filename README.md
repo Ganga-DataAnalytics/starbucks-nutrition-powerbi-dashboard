@@ -184,9 +184,10 @@ This scatter plot explores the relationship between saturated fat and cholestero
 
 
 
+
 ## Repository Structure
 
-
+```text
 starbucks-nutrition-powerbi-dashboard/
 │
 ├── README.md
@@ -202,7 +203,7 @@ starbucks-nutrition-powerbi-dashboard/
     ├── caffeine-by-beverage-category.png
     ├── calories-and-carb-by-beverage-category.png
     └── saturated-fat-and-cholesterol-by-beverage-category.png
-
+```
 
 
 
