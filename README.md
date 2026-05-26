@@ -108,7 +108,7 @@ Additional restructuring was completed to support better filtering and analysis.
 
 
 
-!\[Dashboard Overview](images/overview.png)
+![Dashboard Overview](images/overview.png)
 
 
 
@@ -124,7 +124,7 @@ This treemap shows how Starbucks beverages are distributed across Dairy, Non-Dai
 
 
 
-!\[Beverage by Dairy Category](images/beverage-by-dairy-category.png)
+![Beverage by Dairy Category](images/beverage-by-dairy-category.png)
 
 
 
@@ -136,7 +136,7 @@ This visual compares average caffeine levels across beverage categories. Coffee-
 
 
 
-!\[Caffeine by Beverage Category](images/caffeine-by-beverage-category.png)
+![Caffeine by Beverage Category](images/caffeine-by-beverage-category.png)
 
 
 
@@ -148,7 +148,7 @@ This chart compares average calories and carbohydrates across beverage categorie
 
 
 
-!\[Calories and Carbohydrates by Beverage Category](images/calories-and-carb-by-beverage-category.png)
+![Calories and Carbohydrates by Beverage Category](images/calories-and-carb-by-beverage-category.png)
 
 
 
@@ -160,7 +160,7 @@ This scatter plot explores the relationship between saturated fat and cholestero
 
 
 
-images/saturated-fat-and-cholesterol-by-beverage -category.png
+![Saturated Fat and Cholesterol by Beverage Category](images/saturated-fat-and-cholesterol-by-beverage-category.png)
 
 
 
