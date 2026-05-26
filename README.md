@@ -1,8 +1,8 @@
-\# Starbucks Nutrition Insights Dashboard | Power BI
+# Starbucks Nutrition Insights Dashboard | Power BI
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,7 +14,7 @@ The project is designed as a real-world consumer analytics dashboard. It support
 
 
 
-\## Business Problem
+## Business Problem
 
 
 
@@ -26,39 +26,39 @@ This dashboard aims to answer practical consumer questions such as:
 
 
 
-\- Which beverage categories contain the highest caffeine?
+- Which beverage categories contain the highest caffeine?
 
-\- Which drinks are heavier in calories and carbohydrates?
+- Which drinks are heavier in calories and carbohydrates?
 
-\- How are beverages distributed across dairy, non-dairy, and other options?
+- How are beverages distributed across dairy, non-dairy, and other options?
 
-\- What is the relationship between saturated fat and cholesterol?
+- What is the relationship between saturated fat and cholesterol?
 
-\- Which drinks may be more suitable for health-conscious or lactose-intolerant consumers?
-
-
-
-\## Tools Used
+- Which drinks may be more suitable for health-conscious or lactose-intolerant consumers?
 
 
 
-\- Power BI Desktop
-
-\- Power Query
-
-\- Microsoft Excel
-
-\- Data cleaning and transformation
-
-\- Data modelling
-
-\- Interactive dashboard design
-
-\- Business intelligence reporting
+## Tools Used
 
 
 
-\## Dataset
+- Power BI Desktop
+
+- Power Query
+
+- Microsoft Excel
+
+- Data cleaning and transformation
+
+- Data modelling
+
+- Interactive dashboard design
+
+- Business intelligence reporting
+
+
+
+## Dataset
 
 
 
@@ -66,33 +66,33 @@ The dataset contains nutritional information for Starbucks beverages, including:
 
 
 
-\- Beverage category
+- Beverage category
 
-\- Beverage name
+- Beverage name
 
-\- Milk type
+- Milk type
 
-\- Calories
+- Calories
 
-\- Total carbohydrates
+- Total carbohydrates
 
-\- Total fat
+- Total fat
 
-\- Saturated fat
+- Saturated fat
 
-\- Cholesterol
+- Cholesterol
 
-\- Protein
+- Protein
 
-\- Caffeine
+- Caffeine
 
-\- Sodium
+- Sodium
 
-\- Vitamins and minerals
+- Vitamins and minerals
 
 
 
-\## Data Preparation
+## Data Preparation
 
 
 
@@ -104,7 +104,7 @@ Additional restructuring was completed to support better filtering and analysis.
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 
 
@@ -112,11 +112,11 @@ Additional restructuring was completed to support better filtering and analysis.
 
 
 
-\## Key Dashboard Visuals
+## Key Dashboard Visuals
 
 
 
-\### Beverage by Dairy Category
+### Beverage by Dairy Category
 
 
 
@@ -128,7 +128,7 @@ This treemap shows how Starbucks beverages are distributed across Dairy, Non-Dai
 
 
 
-\### Caffeine by Beverage Category
+### Caffeine by Beverage Category
 
 
 
@@ -140,7 +140,7 @@ This visual compares average caffeine levels across beverage categories. Coffee-
 
 
 
-\### Calories and Carbohydrates by Beverage Category
+### Calories and Carbohydrates by Beverage Category
 
 
 
@@ -152,7 +152,7 @@ This chart compares average calories and carbohydrates across beverage categorie
 
 
 
-\### Saturated Fat and Cholesterol by Beverage Category
+### Saturated Fat and Cholesterol by Beverage Category
 
 
 
@@ -164,75 +164,49 @@ This scatter plot explores the relationship between saturated fat and cholestero
 
 
 
-\## Key Insights
+## Key Insights
 
 
 
-\- Coffee-based beverages have the highest average caffeine levels.
+- Coffee-based beverages have the highest average caffeine levels.
 
-\- Frappuccino and smoothie categories generally contain higher calories and carbohydrates.
+- Frappuccino and smoothie categories generally contain higher calories and carbohydrates.
 
-\- Dairy-based beverages are more strongly associated with saturated fat and cholesterol.
+- Dairy-based beverages are more strongly associated with saturated fat and cholesterol.
 
-\- Non-dairy options provide useful alternatives for lactose-intolerant or health-conscious customers.
+- Non-dairy options provide useful alternatives for lactose-intolerant or health-conscious customers.
 
-\- Simple drinks such as brewed coffee and tea are generally lighter choices compared with milk-heavy or blended beverages.
+- Simple drinks such as brewed coffee and tea are generally lighter choices compared with milk-heavy or blended beverages.
 
-\- The dashboard allows users to compare drinks interactively using beverage category, beverage name, and dairy category filters.
-
-
-
-\## Repository Structure
+- The dashboard allows users to compare drinks interactively using beverage category, beverage name, and dairy category filters.
 
 
 
-```text
+
+
+## Repository Structure
+
 
 starbucks-nutrition-powerbi-dashboard/
-
 │
-
 ├── README.md
-
-│
-
 ├── data/
-
 │   └── starbucks.xlsx
-
-│
-
 ├── dashboard/
-
-│   └── Starbucks\_Nutrition\_Dashboard.pbix
-
-│
-
+│   └── Starbucks_Nutrition_Dashboard.pbix
 ├── reports/
-
-│   ├── Starbucks\_Nutrition\_Insights\_Business\_Report.pdf
-
-│   
-
-│
-
+│   └── Starbucks_Nutrition_Insights_Business_Report.pdf
 └── images/
-
-&#x20;   ├── overview.png
-
-&#x20;   ├── beverage-by-dairy-category.png
-
-&#x20;   ├── caffeine-by-beverage-category.png
-
-&#x20;   ├── calories-and-carb-by-beverage-category.png
-
-&#x20;   └── saturated-fat-and-cholesterol-by-beverage-category.png
-
-```
+    ├── overview.png
+    ├── beverage-by-dairy-category.png
+    ├── caffeine-by-beverage-category.png
+    ├── calories-and-carb-by-beverage-category.png
+    └── saturated-fat-and-cholesterol-by-beverage-category.png
 
 
 
-\## Project Outcome
+
+## Project Outcome
 
 
 
@@ -244,11 +218,7 @@ The final dashboard can help consumers make more informed Starbucks beverage cho
 
 
 
-\## Author
 
-
-
-\*\*Gangadhar Rahula\*\*  
 
 
 
